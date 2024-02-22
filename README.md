@@ -1,7 +1,7 @@
 ## 🌕 About Me
-Web developer with more than 4 years of experience with server-side Java techniques.
+Web developer with more than 5 years of experience with server-side Java (3 and a half years) and front-side Nuxt.js (1 and a half years).
 
-Recently learning front-end technologies such as Nuxt.js, Next.js.
+Recently learning React, Next.js.
 
 ### 🌱 My skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,jquery,nodejs,java,vue,nuxtjs,mysql,spring,aws,vscode,git,github,eclipse,react,next" />
