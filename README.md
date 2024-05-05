@@ -3,9 +3,14 @@ Web developer with more than 5 years of experience with server-side Java (3 and 
 
 Recently learning React, Next.js.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/N-Laboratory/N-Laboratory/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/N-Laboratory/N-Laboratory/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/N-Laboratory/N-Laboratory/output/github-contribution-grid-snake.svg">
+</picture>
+
 ### 🌱 My skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,jquery,nodejs,java,vue,nuxtjs,mysql,spring,aws,vscode,git,github,eclipse,react,next" />
-
 
 ## 📈 Status
 <p align="left">
