@@ -25,6 +25,7 @@ Recently learning React, Next.js.
 **[Twitter - @NL4boratory](https://twitter.com/NL4boratory)** | **[Portfolio Web](https://n-laboratory.jp)**
 
 ## New Posts.
+- **[JUnit 5 × Java 21で@ExceptionHandlerのユニットテストを実装する](https://n-laboratory.jp/articles/junit5-java21-exception-handler)**
 - **[Nuxt 3でeslintrcとPrettierからFlat ConfigとESLint stylisticに移行する](https://n-laboratory.jp/articles/nuxt3-flat-config-eslint-stylistic)**
 - **[GitHubのプロフィールにコントリビューションを食べるヘビを追加する](https://n-laboratory.jp/articles/github-generate-snake)**
 - **[Spring Boot 3 × Java 21にGradleでCheckStyleを適用する](https://n-laboratory.jp/articles/springboot-gradle-checkstyle)**
@@ -34,7 +35,6 @@ Recently learning React, Next.js.
 - **[Nuxt 3にStorybook 7を導入する方法](https://n-laboratory.jp/articles/nuxt-storybook)**
 - **[Next.js 13 × SonarQubeでソースコードの静的解析と品質管理を行う方法](https://n-laboratory.jp/articles/next-13-sonarqube)**
 - **[Next.js 13 × Vitest × Testing Libraryで単体テストの実行とカバレッジを取得する](https://n-laboratory.jp/articles/next-13-vitest-unittest)**
-- **[Next.js 13 × SWR × Route Handlersでデータを取得する](https://n-laboratory.jp/articles/next-13-swr-routehandlers)**
 <p align="right">
   <a href="https://n-laboratory.jp/list" target="_blank" rel="noreferrer">See all posts</a>
 </p>
