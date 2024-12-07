@@ -25,6 +25,7 @@ Recently learning React, Next.js.
 **[Twitter - @NL4boratory](https://twitter.com/NL4boratory)** | **[Portfolio Web](https://n-laboratory.jp)**
 
 ## New Posts.
+- **[Nuxt 3 × Storybook 8 にMSWの2系を導入する](https://n-laboratory.jp/articles/nuxt-storybook-msw)**
 - **[Nuxt 3にStorybook 8を導入して環境を構築する](https://n-laboratory.jp/articles/nuxt3-storybook8)**
 - **[Spring Boot × MyBatisでH2 DataBaseをインメモリで利用する](https://n-laboratory.jp/articles/springboot-mybatis-h2-database)**
 - **[JUnit 5 × MyBatis × DBUnitでRepositoryのユニットテストを実装する](https://n-laboratory.jp/articles/junit5-mybatis-dbunit)**
@@ -34,7 +35,6 @@ Recently learning React, Next.js.
 - **[Spring Boot 3 × Java 21にGradleでCheckStyleを適用する](https://n-laboratory.jp/articles/springboot-gradle-checkstyle)**
 - **[Nuxt 3 × Storybook 7にTailwindCSSを導入する方法](https://n-laboratory.jp/articles/nuxt-storybook-tailwind-css)**
 - **[Nuxt 3 × Storybook 7で自動インポート（関数・コンポーネント）の設定をする](https://n-laboratory.jp/articles/nuxt-storybook-auto-import)**
-- **[Nuxt 3 × Storybook 7でPiniaを利用したStoryを追加する](https://n-laboratory.jp/articles/nuxt-storybook-pinia)**
 <p align="right">
   <a href="https://n-laboratory.jp/list" target="_blank" rel="noreferrer">See all posts</a>
 </p>
