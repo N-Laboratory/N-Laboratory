@@ -1,4 +1,5 @@
 ## 🌕 About Me
+
 Web developer with more than 5 years of experience with server-side Java (3 and a half years) and front-side Nuxt.js (1 and a half years).
 
 Recently learning React, Next.js.
@@ -10,21 +11,24 @@ Recently learning React, Next.js.
 </picture>
 
 ### 🌱 My skills
+
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ts,js,html,css,jquery,nodejs,java,vue,nuxtjs,mysql,spring,aws,vscode,git,github,eclipse,react,next" />
 
 ## 📈 Status
+
 <p align="left">
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-Laboratory&layout=compact&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=N-Laboratory" />
+  <img alt="Top Langs" height="150px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=N-Laboratory&layout=compact&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-stats-extended.vercel.app/api?username=N-Laboratory" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=N-Laboratory&margin-w=5)](https://github.com/N-Laboratory/)
+[![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=N-Laboratory&margin-w=5)](https://github.com/N-Laboratory/)
 
 ## 📨 Contact me.
 
 **[Twitter - @NL4boratory](https://twitter.com/NL4boratory)** | **[Portfolio Web](https://n-laboratory.jp)**
 
 ## New Posts.
+
 - **[Nuxt 3 × Storybook 8 × Vitestでインタラクションテストを実行する](https://n-laboratory.jp/articles/nuxt-storybook-vitest)**
 - **[Nuxt 3 × Storybook 8 にMSWの2系を導入する](https://n-laboratory.jp/articles/nuxt-storybook-msw)**
 - **[Nuxt 3にStorybook 8を導入して環境を構築する](https://n-laboratory.jp/articles/nuxt3-storybook8)**
